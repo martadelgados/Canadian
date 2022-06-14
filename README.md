@@ -12,14 +12,8 @@
 2. **Information**: Información de las variables, análisis de los resultados.
 3. **Notebooks**: Análisis realizado
 
----
-<br>
 
-<br>
-
----
-
-Autores: 
+### Creado por: 
 * Susana Jodra
 * Loreto Torres
 * Marta Onieva 
