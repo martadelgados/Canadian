@@ -7,15 +7,15 @@
 
 ------------
 ### Introducción
-Problema de Machine Learning Automático en el que se abordan distintos procesamientos y técnicas para crear modelos que nos ayude a predecir los fallecimientos en los accidentes de tráfico, asi como, a determinar la necesidad de tratamiento médico o no. 
+Problema de Machine Learning Automático en el que se abordan distintos procesamientos y técnicas para crear modelos que nos ayuden a predecir los fallecimientos en los accidentes de tráfico, así como, a determinar la necesidad de tratamiento médico en los afectados o no. 
 
 ### Datos
-La base de datos obtenida de:  https://www.kaggle.com/datasets/tbsteal/canadian-car-accidents-19942014?select=drivingLegend.pdf hace referencia al número de accidentes de tráfico en Cánada de 1994-2014, que las provincias proporcionan cada año, y que se recoge en la NCDB.
+La base de datos obtenida de:  https://www.kaggle.com/datasets/tbsteal/canadian-car-accidents-19942014?select=drivingLegend.pdf ,hace referencia al número de accidentes de tráfico en Cánada de 1994-2014, que las provincias proporcionan cada año, y que se recogen en la NCDB.
 
 ### Contenido
-1. **Images**: Imágenes usadas en el trabajo
+1. **Images**: Imágenes usadas en el trabajo,
 2. **Information**: Información de las variables, análisis de los resultados.
-3. **Notebooks**: Jupyter Notebooks con el contenido del análisis realizado a lo largo del trabajo: Introducción, Transformación de datos, EDA, Modelos y Conclusiones.
+3. **Notebooks**: Jupyter Notebooks con el contenido del análisis realizado a lo largo del trabajo - Introducción, Transformación de datos, EDA, Modelos y Conclusiones.
 
 ### Autores: 
 * Susana Jodra del Reino
